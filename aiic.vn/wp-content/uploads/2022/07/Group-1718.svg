@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.528" height="35" viewBox="0 0 45.528 35">
+  <g id="Group_1718" data-name="Group 1718" transform="translate(-577 -1347.065)">
+    <g id="graduation-cap" transform="translate(577.728 1347.065)">
+      <path id="Path_5778" data-name="Path 5778" d="M44.2,63.042l-21.525-7a.875.875,0,0,0-.541,0L.6,63.042a.875.875,0,0,0,0,1.664L11.025,68.1v6.279a.875.875,0,0,0,.39.728c.223.149,5.533,3.647,10.961,3.647,5.477,0,10.787-3.5,11.01-3.647a.875.875,0,0,0,.39-.728V68.1l3.5-1.138V75.4a2.624,2.624,0,0,0-.189,4.873l-2.41,9.639A.875.875,0,0,0,35.525,91h5.25a.875.875,0,0,0,.849-1.087l-2.41-9.639a2.624,2.624,0,0,0-.189-4.873V66.388L44.2,64.707a.875.875,0,0,0,0-1.664ZM36.646,89.25l1.5-6.017,1.5,6.017ZM32.025,73.89c-1.277.771-5.493,3.11-9.65,3.11-4.105,0-8.322-2.339-9.6-3.11V68.665l9.354,3.042a.875.875,0,0,0,.541,0l9.354-3.042ZM22.4,69.954,3.7,63.875l18.7-6.08,18.7,6.08-18.7,6.08Z" transform="translate(0 -56)" fill="#daa54b"/>
+    </g>
+    <g id="Group_1717" data-name="Group 1717" transform="translate(577 1369.392)">
+      <g id="Ellipse_424" data-name="Ellipse 424" fill="#fff" stroke="#daa54b" stroke-width="1.5">
+        <circle cx="6.16" cy="6.16" r="6.16" stroke="none"/>
+        <circle cx="6.16" cy="6.16" r="5.41" fill="none"/>
+      </g>
+      <g id="Group_1716" data-name="Group 1716" transform="translate(3.359 6.405) rotate(-45)">
+        <path id="Path_5779" data-name="Path 5779" d="M0,0V4.306" transform="translate(2.153)" fill="none" stroke="#daa54b" stroke-width="1"/>
+        <path id="Path_5780" data-name="Path 5780" d="M0,0V4.306" transform="translate(0 2.153) rotate(-90)" fill="none" stroke="#daa54b" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+aiic.vn	TRUE	/	FALSE	1999999999	PHPSESSID	49it1mah6l4353bai1cbqqinqj
+.yandex.ru	TRUE	/	FALSE	1999999999	_yasc	igPQH2/iS2wCLozNydFeWnbVyWQIxwr5sH77y+XlHMeAtrRRrCBXyEfeD0J8Aqcq
+.yandex.ru	TRUE	/	FALSE	1999999999	i	bDntH12BI7XhVL0RXGLcaQZYlqAXc2byjm8shbWwz38XYG1u3VG7Yoe1dBh/gY8ycqPc1EhGW71r3+Td5zaEOXWok3M=
+.yandex.ru	TRUE	/	FALSE	1999999999	yandexuid	5400251531709630509
+
